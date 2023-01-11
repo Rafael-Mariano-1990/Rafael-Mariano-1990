@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente trabalho como Assistnete Administrativo.
-- 🌱 Estou estudando PHP em conjunto com MySQL, mas também não deixo de lado o querido JavaScript.
+- 🌱 Estou estudando PHP em conjunto com MySQL, mas também não deixo de lado o JavaScript.
 - 👯 Estou procurando me tornar desenvolvedor Full-Stack.
 - 📫 Pode me contatar no e-mail: rafaelmariano52@gmail.com
 - 😄 Pronouns: ele/dele
