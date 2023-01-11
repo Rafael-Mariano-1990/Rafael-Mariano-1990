@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://github.com/Rafael-Mariano-1990">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Mariano-1990&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Mariano-1990&langs_count=8&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Mariano-1990&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
