@@ -8,6 +8,7 @@
 - 📫 Pode me contatar no e-mail: rafaelmariano52@gmail.com
 - 😄 Pronouns: ele/dele
 
+
 <div align="center">
   <a href="https://github.com/Rafael-Mariano-1990">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Mariano-1990&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
